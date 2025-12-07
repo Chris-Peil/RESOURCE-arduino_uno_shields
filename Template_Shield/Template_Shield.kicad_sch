@@ -2018,7 +2018,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "arduino_shield:1X08-TH-PRESSFIT"
 			(at 185.42 20.32 0)
 			(effects
 				(font
@@ -2104,7 +2104,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "arduino_shield:1X10-TH-PRESSFIT"
 			(at 154.94 20.32 0)
 			(effects
 				(font
@@ -2196,7 +2196,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "arduino_shield:1X08-TH-PRESSFIT"
 			(at 170.18 160.02 0)
 			(effects
 				(font
@@ -2282,7 +2282,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "arduino_shield:1X06-TH-PRESSFIT"
 			(at 193.04 160.02 0)
 			(effects
 				(font
