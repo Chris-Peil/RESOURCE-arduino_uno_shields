@@ -1,0 +1,144 @@
+(footprint "DISCLAIMER"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0 0 0)
+		(layer "F.SilkS")
+		(uuid "7443d868-ab04-4588-b2d0-0f4de09419ce")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(uuid "294106b9-a11f-4df3-9c30-855bc3e42c4c")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "5b28e27d-868c-40f8-865a-b5777776d3d8")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "17639a4f-12b6-4c5d-a39d-1135dad03e78")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(fp_text user "The product information on the Web Site or Materials is subject to change without notice. Do not finalize a design with this information. "
+		(at 0 -5.969 0)
+		(unlocked yes)
+		(layer "F.Cu")
+		(uuid "22139b39-e163-4475-85b0-7895d8493434")
+		(effects
+			(font
+				(size 1.143 1.143)
+				(thickness 0.127)
+			)
+			(justify left bottom)
+		)
+	)
+	(fp_text user "these for future definition and shall have no responsibility whatsoever for conflicts or incompatibilities arising from future changes to them."
+		(at 0 -9.017 0)
+		(unlocked yes)
+		(layer "F.Cu")
+		(uuid "68b2facf-8fc5-4cf5-a545-613731593996")
+		(effects
+			(font
+				(size 1.143 1.143)
+				(thickness 0.127)
+			)
+			(justify left bottom)
+		)
+	)
+	(fp_text user "Arduino may make changes to specifications and product descriptions at any time, without notice. The Customer must not"
+		(at 0 -13.081 0)
+		(unlocked yes)
+		(layer "F.Cu")
+		(uuid "79460cdc-5d52-4e8c-8642-1ca4989fb2c5")
+		(effects
+			(font
+				(size 1.143 1.143)
+				(thickness 0.127)
+			)
+			(justify left bottom)
+		)
+	)
+	(fp_text user "REGARDING PRODUCTS, INCLUDING BUT NOT LIMITED TO, ANY IMPLIED WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE"
+		(at 0 -16.129 0)
+		(unlocked yes)
+		(layer "F.Cu")
+		(uuid "a21a87c5-dbb8-4384-98af-f91cd80652be")
+		(effects
+			(font
+				(size 1.143 1.143)
+				(thickness 0.127)
+			)
+			(justify left bottom)
+		)
+	)
+	(fp_text user "Reference Designs ARE PROVIDED \"AS IS\" AND \"WITH ALL FAULTS. Arduino DISCLAIMS ALL OTHER WARRANTIES, EXPRESS OR IMPLIED,"
+		(at 0 -18.161 0)
+		(unlocked yes)
+		(layer "F.Cu")
+		(uuid "c938f22a-de17-4ed1-8f03-be74973a625b")
+		(effects
+			(font
+				(size 1.143 1.143)
+				(thickness 0.127)
+			)
+			(justify left bottom)
+		)
+	)
+	(fp_text user "“Arduino” name and logo are trademarks registered by Arduino S.r.l. in Italy, in the European Union and in other countries of the world."
+		(at 0 -2.921 0)
+		(unlocked yes)
+		(layer "F.Cu")
+		(uuid "d6fe9e90-dc17-498b-a69a-fd010ea2da54")
+		(effects
+			(font
+				(size 1.308608 1.308608)
+				(thickness 0.113792)
+			)
+			(justify left bottom)
+		)
+	)
+	(fp_text user "rely on the absence or characteristics of any features or instructions marked \"reserved\" or \"undefined.\" Arduino reserves"
+		(at 0 -11.049 0)
+		(unlocked yes)
+		(layer "F.Cu")
+		(uuid "f2f95e90-ab66-4313-941a-e3f53351d1c7")
+		(effects
+			(font
+				(size 1.143 1.143)
+				(thickness 0.127)
+			)
+			(justify left bottom)
+		)
+	)
+	(embedded_fonts no)
+)

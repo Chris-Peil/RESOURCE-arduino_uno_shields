@@ -1,0 +1,256 @@
+(footprint "10X04MTA"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "AMP MTA connector\n\nSource: http://ecommas.tycoelectronics.com .. ENG_CD_640456_W.pdf")
+	(property "Reference" "REF**"
+		(at -5.1562 4.5212 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "87400db1-2480-4edd-9873-16e04a55c4cd")
+		(effects
+			(font
+				(size 1.1684 1.1684)
+				(thickness 0.1016)
+			)
+			(justify left bottom)
+		)
+	)
+	(property "Value" "10X04MTA"
+		(at -4.9761 -2.7859 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "61151177-d1a6-4419-8772-92b24c766e4e")
+		(effects
+			(font
+				(size 1.1684 1.1684)
+				(thickness 0.1016)
+			)
+			(justify left bottom)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "b1c9d40f-9f5b-42dd-a6b0-a7629a221379")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "c9c38ef9-d483-48f0-ba67-3bf96a581f33")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(fp_line
+		(start -5.08 -2)
+		(end -5.08 -2.7)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "355956d4-1ebb-49f1-b39e-e2558030f123")
+	)
+	(fp_line
+		(start -5.08 3.3)
+		(end -5.08 -2)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "d33b077b-de4e-4566-a5f4-4c01742a49e0")
+	)
+	(fp_line
+		(start -5.08 3.3)
+		(end 5.08 3.3)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "45886595-19ff-43c1-8fcb-ab0c90263a20")
+	)
+	(fp_line
+		(start 5.08 -2.7)
+		(end -5.08 -2.7)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "ecbec58e-4bc4-48c0-a654-29cb55a80511")
+	)
+	(fp_line
+		(start 5.08 -2.7)
+		(end 5.08 -2)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "a7ad7278-d558-4ce5-9797-6304bda236cf")
+	)
+	(fp_line
+		(start 5.08 -2)
+		(end -5.08 -2)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "55d4d0ce-f451-494a-91ea-b42d0220dd1a")
+	)
+	(fp_line
+		(start 5.08 -2)
+		(end 5.08 3.3)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "60cb81ba-a206-4a96-aac3-f5ca34d704c7")
+	)
+	(fp_poly
+		(pts
+			(xy -4.064 0.254) (xy -3.556 0.254) (xy -3.556 -0.254) (xy -4.064 -0.254)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill yes)
+		(layer "F.SilkS")
+		(uuid "dc4634f5-e1d4-4739-9f24-6c94127465bd")
+	)
+	(fp_poly
+		(pts
+			(xy -1.524 0.254) (xy -1.016 0.254) (xy -1.016 -0.254) (xy -1.524 -0.254)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill yes)
+		(layer "F.SilkS")
+		(uuid "50292cc1-7fcf-4143-80b4-8acf4772f4ee")
+	)
+	(fp_poly
+		(pts
+			(xy 1.016 0.254) (xy 1.524 0.254) (xy 1.524 -0.254) (xy 1.016 -0.254)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill yes)
+		(layer "F.SilkS")
+		(uuid "390347f4-1631-44b4-a0c2-630b60f037ee")
+	)
+	(fp_poly
+		(pts
+			(xy 3.556 0.254) (xy 4.064 0.254) (xy 4.064 -0.254) (xy 3.556 -0.254)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill yes)
+		(layer "F.SilkS")
+		(uuid "4b846dd3-aacf-4fdb-a511-0ca77d031f0b")
+	)
+	(fp_line
+		(start -5.18795 -2.8067)
+		(end 5.20065 -2.8067)
+		(stroke
+			(width 0.0508)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "8b91c284-c7b1-4f26-94f2-c9ebb529477b")
+	)
+	(fp_line
+		(start -5.18795 3.40995)
+		(end -5.18795 -2.8067)
+		(stroke
+			(width 0.0508)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "1ce8392c-3850-4ed7-ab35-145f2ba1ab6d")
+	)
+	(fp_line
+		(start 5.20065 -2.8067)
+		(end 5.20065 3.40995)
+		(stroke
+			(width 0.0508)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "727b57a0-2e89-4c48-9e94-c0cac4904af1")
+	)
+	(fp_line
+		(start 5.20065 3.40995)
+		(end -5.18795 3.40995)
+		(stroke
+			(width 0.0508)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "e1d1a005-08c9-4a7d-a925-6c03968ef3c5")
+	)
+	(pad "1" thru_hole oval
+		(at 3.81 0 270)
+		(size 2.4384 1.524)
+		(drill 1.016)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(solder_mask_margin 0.0508)
+		(thermal_bridge_angle 0)
+		(uuid "d996e059-32ab-41a3-ab12-c73b51878775")
+	)
+	(pad "2" thru_hole oval
+		(at 1.27 0 270)
+		(size 2.4384 1.524)
+		(drill 1.016)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(solder_mask_margin 0.0508)
+		(thermal_bridge_angle 0)
+		(uuid "20f5d409-19e8-4471-b96b-c3af69184668")
+	)
+	(pad "3" thru_hole oval
+		(at -1.27 0 270)
+		(size 2.4384 1.524)
+		(drill 1.016)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(solder_mask_margin 0.0508)
+		(thermal_bridge_angle 0)
+		(uuid "44693d1f-05ad-4ae1-84f8-0b1bbfab914b")
+	)
+	(pad "4" thru_hole oval
+		(at -3.81 0 270)
+		(size 2.4384 1.524)
+		(drill 1.016)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(solder_mask_margin 0.0508)
+		(thermal_bridge_angle 0)
+		(uuid "5fc75e6a-ee84-4221-98ed-a0d98dd298e4")
+	)
+	(embedded_fonts no)
+)
