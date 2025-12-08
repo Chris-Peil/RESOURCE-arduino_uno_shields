@@ -800,4 +800,15 @@
 		(uuid "55f505de-d826-4418-9bfb-f280b0fe409c")
 	)
 	(embedded_fonts no)
+	(model "${KIPRJMOD}/Models/SSQ-108-04-F-S.stp"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 -0 -0)
+		)
+	)
 )
